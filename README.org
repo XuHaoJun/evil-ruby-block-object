@@ -1,0 +1,9 @@
+* Evil-ruby-block-object
+Require package: evil
+
+* Useage
+The ruby-block text object bind on evil's text-object key 'r', you can type
+'var','dir','car',.... ,it like control other text object.
+
+* Know issue
+problem with type 'cir', should put cursor in a newline.
